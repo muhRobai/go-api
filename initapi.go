@@ -1,7 +1,6 @@
 package api
 
-
-func (c *initAPI) initConfig(){
+func (c *initAPI) initConfig() {
 }
 
 func createAPI() (*initAPI, error) {
